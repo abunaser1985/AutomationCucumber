@@ -10,7 +10,7 @@ import cucumber.api.junit.Cucumber;
 		features = "classpath:features",
 
 		glue = "steps",
-		tags = "@Scenario1",
+		tags = "@Reader1",
 		monochrome = true,
 		dryRun = false,
 		plugin = {
